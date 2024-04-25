@@ -1,5 +1,3 @@
-import urllib.request
-import tempfile
 import os
 from urllib.parse import urlparse, parse_qs
 from http.server import BaseHTTPRequestHandler, HTTPServer
